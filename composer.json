@@ -1,0 +1,26 @@
+{
+    "name": "gos/ratchet-stack",
+    "type": "library",
+    "description": "Ratchet Stack",
+    "keywords": ["Stack", "Application", "Ratchet"],
+    "homepage": "https://github.com/GeniusesOfSymfony/RatchetStack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johann Saunier",
+            "email": "johann_27@hotmail.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "cboden/Ratchet": "~0.3.0"
+    },
+    "autoload": {
+        "psr-4": { "Gos\\Component\\RatchetStack\\": "src/" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
