@@ -1,12 +1,13 @@
 Ratchet Stack
 ==============
 
+[![Latest Stable Version](https://poser.pugx.org/gos/ratchet-stack/v/stable)](https://packagist.org/packages/gos/ratchet-stack) [![Total Downloads](https://poser.pugx.org/gos/ratchet-stack/downloads)](https://packagist.org/packages/gos/ratchet-stack) [![License](https://poser.pugx.org/gos/ratchet-stack/license)](https://packagist.org/packages/gos/ratchet-stack)
+
 Builder for ratchet middlewares based on ComponentInterface.
 
 Ratchet Stack Builder is a small library that helps you construct a nested ComponentInterface decorator tree. It models it as a stack of middlewares.
 
 Inspired of [StackPHP](https://github.com/stackphp/builder)
-
 
 ## Installation
 
