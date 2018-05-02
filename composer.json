@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "cboden/Ratchet": "~0.3.0"
+        "cboden/Ratchet": "^0.3|^0.4"
     },
     "autoload": {
         "psr-4": { "Gos\\Component\\RatchetStack\\": "src/" }
